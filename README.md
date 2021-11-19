@@ -1,7 +1,10 @@
-### Hi there 👋
 <p align="center">
-<img src="https://user-images.githubusercontent.com/9582465/142702394-3ac17af9-0bc5-4248-afd7-8e00ccf6b528.gif"/>
+<img src="https://user-images.githubusercontent.com/9582465/142704874-e6d7026a-82c3-4032-a85e-5057a14ed2e8.gif" width="1000"/>
 </p>
+
+
+# Hi there! <img src="https://user-images.githubusercontent.com/9582465/142705235-0fffaeb5-c931-4619-aa93-94e859f6122b.gif" width="30px">
+
 
 <!--![fallenangelsgif](https://user-images.githubusercontent.com/9582465/142702394-3ac17af9-0bc5-4248-afd7-8e00ccf6b528.gif)
 
@@ -12,7 +15,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...![1637257135547IMG_20211117_164511](https://user-images.githubusercontent.com/9582465/142701569-fa98e962-6e81-4b0a-8cfc-fede53aa1201.jpg)
+- 👯 I’m looking to collaborate on ...
 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
