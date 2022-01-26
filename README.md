@@ -23,6 +23,13 @@ I'm a Computer Engineering student from &nbsp;<img src="https://user-images.gith
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grazieleoliveira&theme=dark&layout=compact)
 
+<h3>Other Links 🔗</h3>
+  <a target="_blank" href="https://dev.to/grazieleoliveira">
+   <img align="left" alt="Devto" height="25px" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
+  <a target="_blank" href="https://www.linkedin.com/in/grazi-oliveira/">
+   <img align="left" alt="LinkedIn" height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
 <!--
 
