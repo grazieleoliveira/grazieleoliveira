@@ -6,6 +6,7 @@
 
 I'm a Computer Engineering student from &nbsp;<img src="https://user-images.githubusercontent.com/9582465/142709262-190869f0-971f-4dc7-b9c2-257d35fba462.png" height="13"> &nbsp;and I like software development quite a lot. 
 <br/>
+
 At the moment, I am working as a React Native developer, but I am also very interested in Flutter and had a bunch of fun making some personal projects using it. 
 <br/>
 
