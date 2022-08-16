@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/9582465/142704874-e6d7026a-82c3-4032-a85e-5057a14ed2e8.gif" width="1000"/>
+<img src="https://user-images.githubusercontent.com/9582465/142704874-e6d7026a-82c3-4032-a85e-5057a14ed2e8.gif" width="100%"/>
 </p><h2 align="center">Hi there! I'm Grazi &nbsp;<img height="24px" src="https://user-images.githubusercontent.com/9582465/142705235-0fffaeb5-c931-4619-aa93-94e859f6122b.gif" width="30px"></h2> 
 
 <h3>About me 💭</h3>
